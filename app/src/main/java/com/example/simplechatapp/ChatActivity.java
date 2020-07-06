@@ -6,6 +6,8 @@ import android.os.Bundle;
 
 public class ChatActivity extends AppCompatActivity {
 
+    static final String TAG = ChatActivity.class.getSimpleName();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

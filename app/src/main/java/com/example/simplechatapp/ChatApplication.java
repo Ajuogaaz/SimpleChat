@@ -12,6 +12,7 @@ public class ChatApplication extends Application {
     public void onCreate() {
         super.onCreate();
 
+
         //Use for monitering parse network traffick
         OkHttpClient.Builder builder = new OkHttpClient.Builder();
 
