@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SimpleChatApp</string>
+    <string name="type_here">Type Here</string>
+    <string name="send">send</string>
 </resources>
